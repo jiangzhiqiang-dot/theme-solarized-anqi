@@ -8,7 +8,7 @@ this theme is designed for vscode.
 
 for windows 
 1. download the file put the file to the path:
-2. C:\Users\usrname\.vscode\extensions
+2. C:\Users\usrname\\.vscode\extensions
 3. open vscode and chose the solarized-dark+ theme 
 
 
